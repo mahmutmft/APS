@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class tretaNiziListi {
+public class cetvortaNiziListi {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
-        SLL<String> list = new SLL<>();
         scanner.nextLine();
+        SLL<String> list = new SLL<>();
         for (int i = 0; i < n; i++) {
             String element = scanner.nextLine();
             list.insertLast(element);
@@ -14,9 +14,8 @@ public class tretaNiziListi {
         System.out.println(list);
         SLLNode<String> pokazuvac = list.getFirst();
         while (pokazuvac != null) {
-            if (pokazuvac.element.length() == L) {
-                list.insertAfter("Target", pokazuvac);
-                pokazuvac = pokazuvac.succ;
+            if (pokazuvac.element.length() > L) {
+                list.insertBefore("Outlier", pokazuvac);
             }
             pokazuvac = pokazuvac.succ;
         }
