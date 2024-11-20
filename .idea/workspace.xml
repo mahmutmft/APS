@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df518012-01c9-4e80-8b32-8b6af9bf9a7f" name="Changes" comment="niziListi -4">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nizi i Listi/Nizi i Listi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nizi i Listi/src/cetvortaNiziListi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nizi i Listi/src/prvaNiziListi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Nizi i Listi/DLL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Nizi i Listi/DLLNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Nizi i Listi/SLL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Nizi i Listi/SLLNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Nizi i Listi/prvaNiziListi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Nizi i Listi/vezbi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Nizi i Listi/vtoraNiziListi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nizi i Listi/src/tretaNiziListi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Nizi i Listi/src/tretaNiziListi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nizi i Listi/src/petaNiziListi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.cetvortaNiziListi.executor": "Run",
+    "Application.petaNiziListi.executor": "Debug",
     "Application.prvaNiziListi.executor": "Run",
     "Application.vezbi.executor": "Run",
     "Application.vtoraNiziListi.executor": "Run",
@@ -86,9 +75,16 @@
       <recent name="C:\Users\mifta\IdeaProjects\APS\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.cetvortaNiziListi">
+  <component name="RunManager" selected="Application.petaNiziListi">
     <configuration name="cetvortaNiziListi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cetvortaNiziListi" />
+      <module name="Nizi i Listi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="petaNiziListi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="petaNiziListi" />
       <module name="Nizi i Listi" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.petaNiziListi" />
         <item itemvalue="Application.cetvortaNiziListi" />
         <item itemvalue="Application.vezbi" />
         <item itemvalue="Application.vtoraNiziListi" />
@@ -142,7 +139,7 @@
       <updated>1732035697520</updated>
       <workItem from="1732035698732" duration="4565000" />
       <workItem from="1732052274389" duration="136000" />
-      <workItem from="1732052476885" duration="3092000" />
+      <workItem from="1732052476885" duration="7622000" />
     </task>
     <task id="LOCAL-00001" summary="niziIlisti&#10;-1&#10;-2">
       <option name="closed" value="true" />
@@ -168,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732055597035</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="niziListi -4">
+      <option name="closed" value="true" />
+      <created>1732060444827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732060444827</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
