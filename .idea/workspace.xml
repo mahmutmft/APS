@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df518012-01c9-4e80-8b32-8b6af9bf9a7f" name="Changes" comment="niziListi -4">
-      <change afterPath="$PROJECT_DIR$/Nizi i Listi/src/petaNiziListi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nizi i Listi/src/devetaNiziListi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nizi i Listi/src/sedmaNiziListi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nizi i Listi/src/shestaNiziListi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nizi i Listi/src/vezbi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Nizi i Listi/src/vezbi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Nizi i Listi/petaNiziListi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nizi i Listi/petaNiziListi.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mahmutmft"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mahmutmft&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mahmutmft/APS.git",
-    "accountId": "41ec1c88-eed7-48b0-ac2d-8b2fc0704e1a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mahmutmft/APS.git&quot;,
+    &quot;accountId&quot;: &quot;41ec1c88-eed7-48b0-ac2d-8b2fc0704e1a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -49,11 +54,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.cetvortaNiziListi.executor": "Run",
+    "Application.devetaNiziListi.executor": "Run",
     "Application.petaNiziListi.executor": "Debug",
     "Application.prvaNiziListi.executor": "Run",
+    "Application.sedmaNiziListi.executor": "Run",
+    "Application.shestaNiziListi.executor": "Run",
     "Application.vezbi.executor": "Run",
     "Application.vtoraNiziListi.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -75,9 +84,9 @@
       <recent name="C:\Users\mifta\IdeaProjects\APS\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.petaNiziListi">
-    <configuration name="cetvortaNiziListi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cetvortaNiziListi" />
+  <component name="RunManager" selected="Application.sedmaNiziListi">
+    <configuration name="devetaNiziListi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="devetaNiziListi" />
       <module name="Nizi i Listi" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,8 +99,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prvaNiziListi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prvaNiziListi" />
+    <configuration name="sedmaNiziListi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sedmaNiziListi" />
+      <module name="Nizi i Listi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shestaNiziListi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shestaNiziListi" />
       <module name="Nizi i Listi" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,20 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vtoraNiziListi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vtoraNiziListi" />
-      <module name="Nizi i Listi" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.petaNiziListi" />
-        <item itemvalue="Application.cetvortaNiziListi" />
+        <item itemvalue="Application.sedmaNiziListi" />
         <item itemvalue="Application.vezbi" />
-        <item itemvalue="Application.vtoraNiziListi" />
-        <item itemvalue="Application.prvaNiziListi" />
+        <item itemvalue="Application.devetaNiziListi" />
+        <item itemvalue="Application.shestaNiziListi" />
+        <item itemvalue="Application.petaNiziListi" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +149,7 @@
       <workItem from="1732035698732" duration="4565000" />
       <workItem from="1732052274389" duration="136000" />
       <workItem from="1732052476885" duration="7622000" />
+      <workItem from="1732129469036" duration="9992000" />
     </task>
     <task id="LOCAL-00001" summary="niziIlisti&#10;-1&#10;-2">
       <option name="closed" value="true" />
